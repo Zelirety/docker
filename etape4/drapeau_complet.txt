@@ -1,0 +1,91 @@
+us,Etats-Unis
+cn,Chine
+gb,Grande-Bretagne
+fr,France
+au,Australie
+jp,Japon
+it,Italie
+nl,Pays-Bas
+de,Allemagne
+kr,Corée du Sud
+ca,Canada
+br,Brésil
+nz,Nouvelle-Zélande
+hu,Hongrie
+es,Espagne
+uz,Ouzbékistan
+ir,Iran
+ua,Ukraine
+ke,Kenya
+se,Suède
+be,Belgique
+pl,Pologne
+cu,Cuba
+dk,Danemark
+ro,Roumanie
+gr,Grèce
+no,Norvège
+ch,Suisse
+tr,Turquie
+az,Azerbaïdjan
+bg,Bulgarie
+hr,Croatie
+ge,Géorgie
+ie,Irlande
+il,Israël
+kz,Kazakhstan
+tw,Taiwan
+za,Afrique du Sud
+kp,Corée du Nord
+in,Inde
+jm,Jamaïque
+kg,Kirghizistan
+th,Thaïlande
+cz,Rép. Tchèque
+at,Autriche
+ec,Equateur
+mx,Mexique
+rs,Serbie
+am,Arménie
+bh,Bahrein
+co,Colombie
+et,Ethiopie
+hk,Hong-Kong
+lt,Lituanie
+md,Moldavie
+ph,Philippines
+pt,Portugal
+do,Rép. Dominicaine
+dz,Algérie
+ar,Argentine
+eg,Egypte
+id,Indonésie
+si,Slovénie
+tj,Tadjikistan
+tn,Tunisie
+al,Albanie
+bw,Botswana
+cl,Chili
+gd,Grenade
+gt,Guatemala
+xk,Kosovo
+my,Malaisie
+ma,Maroc
+ug,Ouganda
+pr,Porto-Rico
+lc,Sainte-Lucie
+cv,Cap Vert
+ci,Côte d'Ivoire
+X,Equipe olympique des réfugiés
+cy,Chypre
+dm,Dominique
+fj,Fidji
+jo,Jordanie
+mn,Mongolie
+pk,Pakistan
+pa,Panama
+pe,Pérou
+qa,Qatar
+sg,Singapour
+sk,Slovaquie
+zw,Zambie
